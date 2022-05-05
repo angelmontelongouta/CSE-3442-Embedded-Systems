@@ -1,0 +1,1 @@
+"./Lab8_Angel_Montelongo.obj" "./adc0.obj" "./clock.obj" "./rgb_led.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "./wait.obj" "../tm4c123gh6pm.cmd" -llibc.a 
